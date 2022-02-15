@@ -119,7 +119,7 @@ contract DEX_5 {
     function addToken(
         bytes32 _ticker,
         address _token_address
-    ) external {
+    ) external onlyOwner {
         tokens[_ticker] = Token(_ticker, _token_address);
         token_list.push(_ticker);
     }
