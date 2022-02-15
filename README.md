@@ -1,4 +1,4 @@
-# Decentralised exchange - order book model (WORK IN PROGRESS)
+# Decentralised exchange - order book model (LOGIC ONLY)
 
 Dissclaimer: The logic of the smart contract is 80-90% finished and the front-end is 0% finished. That's why it's a WIP :).
 
