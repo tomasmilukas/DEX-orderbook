@@ -85,12 +85,6 @@ contract DEX_5 {
         _;
     }
 
-    event Received(address sender, uint amount);
-
-    receive() external payable {
-    emit Received(msg.sender, msg.value);
-    }
-
     // A function that will return the Limit Order array
     function fetchLimitOrders(
       bytes32 _ticker, 
