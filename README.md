@@ -9,7 +9,7 @@ Market order: is an order to buy or sell a security immediately. <br>
 Limit order: is an order to buy or sell a security at a specific price. <br>
 
 If you are curious about the the contract and want to interact with it, here are the relevant details: <br>
-The arbitrage contracts address: 0x2294e0214c180f91AeE7C371fa260BE8B0882a3d <br>
+The DEX contract address: 0x2294e0214c180f91AeE7C371fa260BE8B0882a3d <br>
 The polygonscan link to the contract: https://polygonscan.com/address/0x2294e0214c180f91AeE7C371fa260BE8B0882a3d <br>
 
 ## Table of contents
